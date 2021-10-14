@@ -1,3 +1,8 @@
+# To-do List
+
+Lightweight task list using react and typescript.
+This project was made following a tutorial by https://b7web.com.br.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
